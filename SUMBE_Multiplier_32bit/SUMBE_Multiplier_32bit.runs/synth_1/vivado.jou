@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  5 23:40:47 2026
+# Process ID: 13704
+# Current directory: /home/anupam/SUMBE_Multiplier_32bit/SUMBE_Multiplier_32bit.runs/synth_1
+# Command line: vivado -log SUMBE_Multiplier_32.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SUMBE_Multiplier_32.tcl
+# Log file: /home/anupam/SUMBE_Multiplier_32bit/SUMBE_Multiplier_32bit.runs/synth_1/SUMBE_Multiplier_32.vds
+# Journal file: /home/anupam/SUMBE_Multiplier_32bit/SUMBE_Multiplier_32bit.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source SUMBE_Multiplier_32.tcl -notrace
